@@ -47,9 +47,9 @@ http://127.0.0.1:8080
 ```
 - Copy your new ID and SECRET and add them to your environment.
 ``` bash
-    export SPOTIPY_CLIENT_ID=your_client_id
-    export SPOTIPY_CLIENT_SECRET=your_client_secret
-    export SPOTIPY_REDIRECT_URI='http://127.0.0.1:8080'
+export SPOTIPY_CLIENT_ID=your_client_id
+export SPOTIPY_CLIENT_SECRET=your_client_secret
+export SPOTIPY_REDIRECT_URI='http://127.0.0.1:8080'
 ```
 > **Note**
 > On Windows, use `SET` instead of `export`
