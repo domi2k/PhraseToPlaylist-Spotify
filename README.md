@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 ## Contact
 
-If you have any questions about this project, feel free to contact me on 'Discord'.
+If you have any questions about this project, feel free to contact me on `Discord`.
 
 <p align="center">
   <a href="https://discordapp.com/users/329876941631127554"><picture>
