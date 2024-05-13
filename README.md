@@ -54,6 +54,9 @@ export SPOTIPY_REDIRECT_URI='http://127.0.0.1:8080'
 > **Note**
 > On Windows, use `SET` instead of `export`
 
+> **Note**
+> Alternatively, you can create an `.env` file in the main directory and store the environment variables in it
+
 If you have a problem with the port or would like to set a different one, you will need to update your Spotify Application at [dashboard](https://developer.spotify.com/dashboard), the **SPOTIPY_REDIRECT_URI** variable and change the port value in the `run.py` file:
 ```py
 from src import create_app
